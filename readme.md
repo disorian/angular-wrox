@@ -1,3 +1,15 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Stock Dog Application](#stock-dog-application)
+	- [Part 1: Scaffolding the project](#part-1-scaffolding-the-project)
+		- [Install Yeoman](#install-yeoman)
+		- [Scaffolding the Project](#scaffolding-the-project)
+		- [Creating Watchlist](#creating-watchlist)
+			- [Installing module dependencies](#installing-module-dependencies)
+			- [The Watchlist Service](#the-watchlist-service)
+
+<!-- /TOC -->
+
 # Stock Dog Application
 
 ## Part 1: Scaffolding the project
@@ -75,4 +87,4 @@ Add `mgcrea.ngStrap` module dependency at the end of dependencies in app.js modu
 ```
 
 #### The Watchlist Service
-[page 99]
+[page 49]
